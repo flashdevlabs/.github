@@ -3,4 +3,4 @@ Fundada em 27 de janeiro de 2025, a FlashDev com o objetivo de transformar ideia
 
 Mais do que uma empresa de desenvolvimento, a FlashDev é uma força criativa focada em construir experiências digitais únicas. **Cada projeto é desenvolvido com paixão, foco no detalhe e comprometimento com a qualidade, garantindo que cada linha de código seja uma expressão do nosso compromisso com a excelência.**
 
--# Inovando o futuro digital!
+# Inovando o futuro digital!
